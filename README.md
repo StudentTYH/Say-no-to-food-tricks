@@ -8,15 +8,15 @@
 ## Dataset
 以下展示了部分数据（数据仅供学习）：
 
-[收集到的csv数据](https://huggingface.co/collections/L0ve1ace/psychology-llm-gguf-67cc766eaf0a3f01c6e39aa6)
+[收集到的csv数据](https://github.com/StudentTYH/Say-no-to-food-tricks/blob/main/dataset/df_data2.csv)
 
-[用于大模型微调数据](https://huggingface.co/collections/L0ve1ace/psychology-llm-gguf-67cc766eaf0a3f01c6e39aa6)
+[用于大模型微调数据](https://github.com/StudentTYH/Say-no-to-food-tricks/blob/main/dataset/fine_tuning_data02.json)
 
-[数据处理代码](https://huggingface.co/collections/L0ve1ace/psychology-llm-gguf-67cc766eaf0a3f01c6e39aa6)
+[数据处理代码](https://github.com/StudentTYH/Fastapi-For-Dify-Tools)
 
 数据过程说明：
 1、通过爬虫获取数据集。
-2、通过大模型与自开发的[百度搜索agent](https://huggingface.co/collections/L0ve1ace/psychology-llm-gguf-67cc766eaf0a3f01c6e39aa6)获取网络数据集（通过百度搜索或得某个配料的详细解释）。
+2、通过大模型与自开发的[百度搜索agent](https://github.com/StudentTYH/Fastapi-For-Dify-Tools)获取网络数据集（通过百度搜索或得某个配料的详细解释）。
 3、通过Langchain进行微调数据集构建（csv2json）。
 
 
@@ -26,4 +26,4 @@
 
 
 ## OCR
-目前使用的是PaddleOCR，通过dify的接口进行调用[codes]()。
+目前使用的是PaddleOCR，通过dify的接口进行调用[codes](https://github.com/StudentTYH/Fastapi-For-Dify-Tools)。
