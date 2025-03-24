@@ -9,7 +9,9 @@
 以下展示了部分数据（数据仅供学习）：
 
 [收集到的csv数据](https://huggingface.co/collections/L0ve1ace/psychology-llm-gguf-67cc766eaf0a3f01c6e39aa6)
+
 [用于大模型微调数据](https://huggingface.co/collections/L0ve1ace/psychology-llm-gguf-67cc766eaf0a3f01c6e39aa6)
+
 [数据处理代码](https://huggingface.co/collections/L0ve1ace/psychology-llm-gguf-67cc766eaf0a3f01c6e39aa6)
 
 数据过程说明：
